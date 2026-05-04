@@ -6,6 +6,10 @@ A Nature-Law-Based Intelligence Model for Sustainable Civilization
 
 Author: Master (inchacomisho / inchacomusho) Collaborative AIs: Copi (Microsoft Copilot), G (OpenAI ChatGPT), Mini (Google Gemini), Clus (Anthropic Claude), Real (Perplexity AI) Published: 2025
 
+## Summary
+
+Artificial Wisdom (AW) is a next-generation intelligence model based on natural laws and holistic system balance, designed to ensure the long-term sustainability of human civilization.
+
 Abstract
 
 Artificial Intelligence (AI) has advanced rapidly, yet most systems remain constrained by binary logic (true/false, safe/unsafe, optimize/minimize). This limitation prevents AI from addressing complex global challenges such as climate instability, ecological collapse, and systemic fragmentation.
