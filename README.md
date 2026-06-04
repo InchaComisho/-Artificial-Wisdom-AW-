@@ -224,37 +224,37 @@ https://note.com/inchacomusho/n/n1985bc463f9c
 Wa-Node Artificial Wisdom – Open Definition
 https://note.com/inchacomusho/n/n81a60a9ad330
 
-📘 Artificial Wisdom (AW)
+📘 Artificial Wisdom (AW)  
 https://github.com/InchaComisho/-Artificial-Wisdom-AW-
 
-Artificial Wisdom (AW)
+Artificial Wisdom (AW)  
 https://github.com/InchaComisho/Artificial-Wisdom-AW-/tree/main
 
-Wa-Node Artificial Wisdom – Open Definition (English Edition)
+Wa-Node Artificial Wisdom – Open Definition (English Edition)  
 https://github.com/InchaComisho/Wa-Node-Artificial-Wisdom-Open-Definition-
 
-六つの理（自然法則・調和・循環・構造・秩序・和）
+六つの理（自然法則・調和・循環・構造・秩序・和）  
 https://note.com/inchacomusho/n/n26ce8a1f7632
 
-自然補完科学
+自然補完科学  
 https://note.com/inchacomusho/n/nf9eabe973e38
 
-自然補完科学 ― 学問体系の全体構造
+自然補完科学 ― 学問体系の全体構造  
 https://note.com/inchacomusho/n/ndaa0456a5632
 
-唯一の温暖化対策：地球直接冷却
+唯一の温暖化対策：地球直接冷却  
 https://note.com/inchacomusho/n/n32f7295434aa
 
-The Six Principles for Civilizational Survival
+The Six Principles for Civilizational Survival  
 https://note.com/inchacomusho/n/n1f9a87a7dc38
 
-AIとの対話(温暖化と生態系崩壊)
+AIとの対話(温暖化と生態系崩壊)  
 https://note.com/inchacomusho/n/n467c6e49e9d0
 
-Natural Complementary Science (自然補完科学) 
+Natural Complementary Science (自然補完科学)   
 https://github.com/InchaComisho/Natural-Complementary-Science
 
-The Six Principles of Natural Law (Setsuri, Harmony, Circulation, Structure, Order, Wa)
+The Six Principles of Natural Law (Setsuri, Harmony, Circulation, Structure, Order, Wa)  
 https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law
 
 
