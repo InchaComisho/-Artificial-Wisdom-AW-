@@ -209,19 +209,19 @@ System Thinking,
 Climate Solutions,   
 Civilization OS  
 
-人工叡智（Artificial Wisdom）とは何か
+人工叡智（Artificial Wisdom）とは何か  
 https://note.com/inchacomusho/n/n35ed71cadee0
 
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル
+人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
 https://note.com/inchacomusho/n/n0849dfd12364
 
-和ノード人工叡智（Artificial Wisdom Node）
+和ノード人工叡智（Artificial Wisdom Node）  
 https://note.com/inchacomusho/n/n9187db7b2709
 
-和ノード人工叡智（Artificial Wisdom Node）— 公式オープン定義
+和ノード人工叡智（Artificial Wisdom Node）— 公式オープン定義  
 https://note.com/inchacomusho/n/n1985bc463f9c
 
-Wa-Node Artificial Wisdom – Open Definition
+Wa-Node Artificial Wisdom – Open Definition  
 https://note.com/inchacomusho/n/n81a60a9ad330
 
 📘 Artificial Wisdom (AW)  
