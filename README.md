@@ -381,5 +381,16 @@ https://note.com/inchacomusho/n/n26ce8a1f7632
 新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
 https://note.com/inchacomusho/n/n499530f6a055あ
 
+---
+
+## Related Framework
+
+This repository is part of the broader Natural Supplementation Science and Earth-cycle regeneration framework.
+
+- [Direct Planetary Cooling: Restoring Earth's Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
+  The core framework defining Direct Planetary Cooling as the restoration of Earth's natural cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus formation, and carbon fixation.
+
+- [NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
+
 
 
