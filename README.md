@@ -418,5 +418,12 @@ This repository is part of the broader Natural Supplementation Science and Earth
 
 - [NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
+---
 
+## Author
 
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
