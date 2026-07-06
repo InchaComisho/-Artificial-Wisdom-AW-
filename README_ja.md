@@ -1,5 +1,7 @@
 # 人工叡智（Artificial Wisdom: AW）
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 持続的文明のための自然法則ベース知性モデル
 
 ---
