@@ -1,5 +1,7 @@
 # Artificial Wisdom (AW)
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 A Nature-Law-Based Intelligence Model for Sustainable Civilization
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
